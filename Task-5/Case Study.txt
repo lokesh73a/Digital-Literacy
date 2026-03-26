@@ -1,0 +1,9 @@
+Case Study: Phishing Attack
+
+Phishing is a common type of cybercrime in which attackers impersonate trusted organizations to steal sensitive information such as login credentials, banking details, or one-time passwords (OTPs). These attacks are usually carried out through emails, SMS messages, or fake websites that appear legitimate.
+
+A typical phishing attack begins when a victim receives a message that seems to come from a trusted source, such as a bank, e-commerce platform, or university portal. The message often creates a sense of urgency, for example, by stating that the user’s account will be blocked unless immediate action is taken. It includes a link that directs the victim to a fake website designed to look identical to the original. Once the user enters their credentials or financial details, the attacker captures the information and may use it for unauthorized transactions or identity theft.
+
+College students are frequent targets because they rely heavily on online services and may not always verify the authenticity of messages. In many cases, victims realize the fraud only after money is lost or accounts are compromised.
+
+The consequences of phishing attacks include financial loss, data breaches, and long-term privacy risks. In some cases, attackers may also misuse stolen information for further scams. Preventive measures such as checking website URLs, avoiding suspicious links, and enabling two-factor authentication can significantly reduce the risk of such attacks
